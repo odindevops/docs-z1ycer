@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-omtkp0.quietmatches.com/sitemap.xml
